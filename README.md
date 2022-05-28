@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mando973 also called @A.T.S.973
+- 👀 I’m interested in creating video games about Heroic Fantasy with magic and swords
+- 🌱 I’m currently learning C# and how to make a video game using the Unity engine
+- 💞️ I’m looking to collaborate on nothing because I'm just learning at this moment but it can change in the future
+- 📫 How to reach me ... I will tell you when I will be ready to collaborate
